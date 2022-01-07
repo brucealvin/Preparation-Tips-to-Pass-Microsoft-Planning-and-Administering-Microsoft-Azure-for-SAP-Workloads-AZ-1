@@ -1,0 +1,1 @@
+# Preparation-Tips-to-Pass-Microsoft-Planning-and-Administering-Microsoft-Azure-for-SAP-Workloads-AZ-1
